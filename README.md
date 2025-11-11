@@ -46,6 +46,10 @@ END
 
 ```
 ## OUTPUT(Ascending order)
+<img width="1920" height="1200" alt="Screenshot 2025-10-03 091225" src="https://github.com/user-attachments/assets/18c7af11-62b9-4fe5-958a-5ec122e0cbb3" />
+
+# MANUAL 
+
 ![WhatsApp Image 2025-11-11 at 18 53 56_1434b9b2](https://github.com/user-attachments/assets/8e3835f4-6860-43e0-8955-f072207f285d)
 
 
@@ -91,8 +95,10 @@ END
 ```
 ## OUTPUT(Descending order)
 
-![WhatsApp Image 2025-11-11 at 18 53 56_1434b9b2](https://github.com/user-attachments/assets/a9c2cf9b-959e-423a-b951-d64f11bdddc5)
+<img width="1920" height="1200" alt="Screenshot 2025-10-03 084035" src="https://github.com/user-attachments/assets/e1106f78-dcc8-457a-bf11-6507a08254d2" />
 
+# MANUAL
+![WhatsApp Image 2025-11-11 at 18 53 56_1434b9b2](https://github.com/user-attachments/assets/a9c2cf9b-959e-423a-b951-d64f11bdddc5)
 
 ---
 ## RESULT:
